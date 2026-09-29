@@ -1,13 +1,15 @@
 {
+  "method": "I used different ways to explore this week, including hands-on practice, online research and discussion. I followed the class instructions, tried things myself, searched for more information when needed, and reflected on what I found.",
+  "related_work": "I looked at several different works and ideas, including the photographic work of dissected mobile phones in the lecture, my digital portrait, Bicycle Built for 2000, and the film clip. I also explored examples of Access Riders. These works helped me think about the relationship between different forms of media.",
+  "references": "",
+  "conclusion_future_work": "This week showed me that creative practice can include technical experiments, physical objects, images, sound and communication. I want to continue exploring these connections in Project 0. I will use pixel art to represent headphones and experiment with how a familiar technological object can be changed into a digital image.",
+  "date": "2026-09-29T17:31:00.000+01:00",
+  "results_discussion": "One of the most interesting parts of this week was setting up the environment for Project 0. Although we were all following the same instructions, small differences between our computers meant that we experienced different problems. This made me realise that technology does not always work in the same way for everyone. I also found the terminal commands interesting because they showed me another way of interacting with a computer. Besides, the lecture about dissecting mobile phones also made me think differently about everyday objects. Seeing the inside of a phone presented through photography made the object feel less familiar. It made me want to try physically taking apart a product myself. After the lecture, we explored the building and created our own digital portraits. I am not sure if my result really looks like a digital portrait, but I enjoyed the process of exploring. This connects to my idea for Project 0, where I plan to make a pixel-art image of headphones. Additionally, I also learned about Access Riders for the first time. I found it interesting that a simple document can help people communicate their needs with a team or organisation before working together. Finally, listening to Bicycle Built for 2000 and watching the film extract made me think about how music and images can change the way we understand each other. After reading an analysis of the film, I understood the song and scene more clearly. I am still interested in exploring how objects and technology can be represented in different ways.",
   "week": 1,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "creative_tech week 1",
+  "images": [
+    "assets/images/微信图片_20260929054432_326_81.jpg"
+  ],
+  "introduction": "This week, I started my first project and explored how technology, digital images and physical objects can become part of my creative practice. I will reflect on the different activities I experienced this week, and how they changed my ideas about making, analysing and communicating creative work.",
+  "video": ""
 }

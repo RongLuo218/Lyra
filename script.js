@@ -187,9 +187,9 @@ async function renderProjects(moduleId) {
     if (project.link) {
       const a = document.createElement("a");
       a.href = project.link;
-      a.textContent = "View project →";
+      a.textContent = "View Project";
       a.target = "_blank";
-      a.rel = "noopener";
+      a.rel = "noopener noreferrer";
       card.appendChild(a);
     }
 

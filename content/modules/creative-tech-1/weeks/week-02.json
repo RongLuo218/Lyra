@@ -1,13 +1,15 @@
 {
+  "method": "I searched online for visual references related to movement, transparency, pixel art, product structure, and interactive websites. I then organised these references into a MoodBoard page using HTML and CSS. I experimented with grids, cards, image sizes, colours, spacing, and typography.",
+  "related_work": "The reading on creative internet platforms helped me understand how online images, communities, and digital platforms can shape inspiration.",
+  "references": "",
+  "conclusion_future_work": "This week helped me understand that visual research is not only about collecting images, but also about finding ideas that can influence design decisions. I still have limited experience with coding and interactive design, but I am becoming more confident through practice.",
+  "date": "2026-10-06T11:07:00.000+01:00",
+  "results_discussion": "The result is a MoodBoard page that collects different visual ideas for my headphone project. Some references show objects becoming simpler and more abstract, while others use transparency to reveal hidden structures. I was also interested in animation, repeated layers, digital overlays, and pixel-style interfaces. These references helped me think about how the headphones could separate into different components and how information could appear around them. ",
   "week": 2,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "creative-tech week 2",
+  "images": [
+    "assets/images/moodboard.jpg"
+  ],
+  "introduction": "This week, I explored how digital tools and visual references can help me develop ideas for my headphone project. I focused on Html, Css, and collecting images for my moodboard.",
+  "video": ""
 }

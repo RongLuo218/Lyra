@@ -39,27 +39,27 @@ collections:
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - label: "1. Introduction"
         name: "introduction"
-        widget: "text"
+        widget: "markdown"
         required: false
         hint: "About 50 words. Frame the week's question from where you stand, and say how you'll answer it — by writing or by making."
       - label: "2. Related Work"
         name: "related_work"
-        widget: "text"
+        widget: "markdown"
         required: false
         hint: "About 60 words, 3-4 sources. What you drew on: this week's readings/videos/artworks, plus up to two sources you found yourself."
       - label: "3. Method"
         name: "method"
-        widget: "text"
+        widget: "markdown"
         required: false
         hint: "About 40 words. Making: what you made, with what, and the choices you took. Writing: how you built the argument."
       - label: "4. Results and Discussion"
         name: "results_discussion"
-        widget: "text"
+        widget: "markdown"
         required: false
         hint: "Making: about 120 words. Writing: about 240 words. Show the artefact (image/link + caption) or your argument around a case study. What surprised you, what's unresolved."
       - label: "5. Conclusion and Future Work"
         name: "conclusion_future_work"
-        widget: "text"
+        widget: "markdown"
         required: false
         hint: "About 50 words. Your working answer to the question, and how you'll use it in your own practice."
       - label: "Images"
@@ -70,7 +70,7 @@ collections:
       - { label: "Video URL (YouTube or Vimeo link)", name: "video", widget: "string", required: false }
       - label: "References"
         name: "references"
-        widget: "text"
+        widget: "markdown"
         required: false
         hint: "Every source cited in the text, numbered, in ACM reference style, e.g. [1] Aaron Koblin and Daniel Massey. 2009. A Bicycle Built for Two Thousand. https://www.bicyclebuiltfortwothousand.com/"
 

@@ -1,13 +1,16 @@
 {
-  "week": 3,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
+  "method": "During our London trip, I experienced and observed the two immersive artworks. In our coding class, I learned how to create a sprite sheet by arranging different frames of an image, animate these frames using CSS, and display the animation on a webpage.",
+  "related_work": "*Solwata* uses mixed reality to tell the stories of communities in the Solomon Islands affected by climate change. *Water Body*  explores the connections between water, nature, and humans through immersive visuals and sound. Both works showed me how digital technologies can communicate ideas beyond traditional images and videos.",
+  "references": "",
+  "conclusion_future_work": "This week helped me see more possibilities for combining art and technology. I am still learning how to use coding to create animations, but I would like to explore more ways to make my website interactive. In the future, I hope to apply these techniques to my own creative projects.",
+  "date": "2026-10-13T00:04:00.000+01:00",
   "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "week": 3,
+  "title": "creative-tech week 3",
+  "images": [
+    "assets/images/微信图片_20261013001413_398_81.jpg",
+    "assets/images/微信图片_20261013001410_397_81.jpg"
+  ],
+  "introduction": "This week, we visited London and experienced two immersive artworks, *Solwata* and *Water Body*. We also learned how to create sprite sheets, animate them, and display the animations on a website.These activities helped me explore how digital technologies can be used to create different visual experiences.",
+  "video": ""
 }

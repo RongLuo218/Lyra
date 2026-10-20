@@ -1,13 +1,21 @@
 {
+  "method": "During the visit, I listened to lectures, participated in discussions, and explored different technologies. In the workshop, we disassembled discarded electronic products, including landline telephones and keyboards. We examined their internal components and selected reusable parts to create new installations.",
+  "related_work": "During the lecture, we learned about digital twins and how mobile phones can be used to scan buildings and create digital representations of physical spaces. These models can then be presented on websites to help people explore and understand buildings.This reminded me of some museums that use apps or digital platforms to show their collections and exhibition spaces.The electronic waste workshop also connected to my Project 0, which explored headphone repair, material consumption, and electronic waste.",
+  "references": "",
+  "conclusion_future_work": "This trip helped me see different relationships between technology, physical spaces, and sustainability. The workshop also gave me new ideas about reusing electronic components in creative projects.Although I enjoyed the activities, the debate reminded me of the importance of improving my English. In the future, I hope to develop both my technical knowledge and my communication skills.",
+  "date": "2026-10-20T10:23:00.000+01:00",
+  "results_discussion": "I had seen some graduating students use similar technology to digitally record the dormitories where they had lived for several years, but I had never tried it myself. This lecture helped me understand how the technology could also be used to scan buildings and create digital models that allow people to explore physical spaces. It reminded me of museums that use digital platforms to let visitors explore their exhibitions and collections.I also enjoyed the electronic waste workshop. Taking apart old devices and finding useful components made me think about my Project 0. Both activities explored the idea that electronic products do not always have to become waste. Their components can sometimes be repaired, reused, or given a new purpose.Later, we attended a debate. However, I found it difficult to follow because there were many academic terms that I did not understand. This made me realise that I need to improve my English, especially my academic listening skills.In the evening, we went on a boat and experienced Bristol at night. It was a relaxing way to end a busy day.",
   "week": 4,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "creative-tech week 4",
+  "images": [
+    "assets/images/0d9da07319d471b40e65ad1227c6a0e5.jpg",
+    "assets/images/10f8bfc1f1626afc8b24b6a88dfebc93.jpg",
+    "assets/images/30b470abae8bbbaf2229ed2d76fbe63e.jpg",
+    "assets/images/935b02229fb371349228d99046969492.jpg",
+    "assets/images/178777d5efc3abced148448bf0d6ad70.jpg",
+    "assets/images/ec0c5308b157033b60da171df48357d8.jpg",
+    "assets/images/d723efe1d336ec9ead7b59e897e3f31a.jpg"
+  ],
+  "introduction": "We visited Bristol and took part in several activities, including a lecture about digital twins, an electronic waste workshop, a debate, and a night-time boat experience. These activities helped me explore how technology can be used to understand spaces, reuse materials, and develop creative ideas.",
+  "video": ""
 }

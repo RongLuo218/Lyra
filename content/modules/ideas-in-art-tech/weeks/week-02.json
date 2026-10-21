@@ -1,13 +1,13 @@
 {
-  "week": 2,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
+  "related_work": "I was particularly interested in Eadweard Muybridge's photographic studies of movement. By capturing a series of photographs, he showed how continuous motion could be broken down into individual frames. This made me think about the relationship between continuous and discrete information.",
+  "references": "",
+  "conclusion_future_work": "This week made me think more about how technology can capture and represent human behaviour. In the future, I would like to explore different ways of turning everyday actions into digital data.",
+  "date": "2026-10-21T23:18:00.000+01:00",
+  "results_discussion": "Inspired by this work, I initially thought about recording someone's mouth movements while speaking and breaking the video down into individual frames.However, after thinking about it further, I felt that this idea was not quite what I wanted to explore, so I decided not to continue with it.Instead, I became more interested in how everyday human behaviours could be transformed into data and stored digitally.",
+  "week": 2,
+  "title": "week 2",
   "images": [],
-  "video": "",
-  "references": ""
+  "introduction": "This week, we learned the history of digital technology and how it can be used to record, analyse and reconstruct information. I was particularly interested in how technology can transform something continuous into separate parts.",
+  "video": ""
 }

@@ -1,13 +1,13 @@
 {
-  "week": 3,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
+  "related_work": "In class, we discussed how bird behaviour can be observed and interpreted. This reminded me of traditional beliefs about animals sensing environmental changes, such as ants moving before rain or animals behaving unusually before earthquakes.I also thought about leaf divination in Chinese culture, where natural signs can be interpreted to predict future events. Although these practices are different, they both involve observing nature and giving meaning to what we see.",
+  "references": "",
+  "conclusion_future_work": "I plan to build on my idea from Week 2 of transforming everyday behaviours into digital data. By combining this with what I learned this week, I would like to explore how animal behaviours and natural signs could be recorded, interpreted and used in an interactive prediction website.",
+  "date": "2026-10-21T23:50:00.000+01:00",
+  "results_discussion": "I started wondering whether these small behaviours could be collected as data and used to make predictions.Initially, I thought about creating a website that could make predictions based on traditional interpretations of animal behaviour. However, I didn't want to focus only on birds, as I wanted to explore a wider range of animals.I also realised that turning animal behaviour into data would be challenging. How could I collect this information without using sensors? And how could I determine whether a particular behaviour actually indicates an environmental change?This made me realise that observing a pattern does not necessarily mean it can reliably predict something.",
+  "week": 3,
+  "title": "week 3",
   "images": [],
-  "video": "",
-  "references": ""
+  "introduction": "This week, we explored how data can be collected, interpreted and used to make predictions.",
+  "video": ""
 }

@@ -1,13 +1,13 @@
 {
+  "method": "During the class, we explored the basic concepts of p5.js and WebSockets and discussed the requirements of Project 1. I started thinking about how to design an interaction that requires two people to cooperate rather than compete.",
+  "related_work": "p5.js is a JavaScript library for creative coding. It allows us to create graphics, animations, and interactive experiences in a web browser. We also learned about WebSockets, which enable real-time, two-way communication between a client and a server. These technologies can be combined to create shared interactive experiences where two users can influence the same digital environment.",
+  "references": "",
+  "conclusion_future_work": "This week helped me understand how coding can support communication and collaboration between people. Although p5.js and WebSockets are still new to me, I am interested in exploring how they can work together. Next, I hope to develop my Project 1 concept and experiment with creating a shared interactive experience.",
+  "date": "2026-10-27T09:30:00.000+00:00",
+  "results_discussion": "Before this week, most of my coding practice focused on creating and displaying content on a website. However, Project 1 introduced a different challenge: creating an experience where two people can interact with each other in real time.I found WebSockets particularly interesting because they allow information to be exchanged between users without constantly refreshing the webpage. Although I am still learning how this works technically, it helped me understand how two people can share the same digital space.For Project 1, I started developing an idea about stacking stones together. One person would control the horizontal movement, while the other would control the vertical movement. Neither person could complete the task alone.I want the interaction to encourage communication and cooperation rather than competition. The stones could become a symbol of care and good wishes between two people.",
   "week": 5,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
+  "title": "creative tech - week 5",
   "images": [],
-  "video": "",
-  "references": ""
+  "introduction": "This week, we were introduced to Project 1, which focuses on creating an interactive experience for two people. We also learned about p5.js and WebSockets, which can be used to create interactive visuals and real-time communication between users. These new technologies helped me start thinking about how two people could interact through a shared digital experience.",
+  "video": ""
 }

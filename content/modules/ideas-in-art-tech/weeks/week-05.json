@@ -1,13 +1,13 @@
 {
-  "week": 5,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
+  "related_work": "We explored the McGurk Effect (McGurk and MacDonald, 1976), which shows how visual information can influence what we hear. We also discussed Michel Chion's concepts of synchresis and added value, which explain how sound and images work together to create meaning.",
+  "references": "",
+  "conclusion_future_work": "This week helped me understand how sound and visuals work together to shape our perception. In future projects, I would like to experiment with changing sound while keeping the same visuals to see how it affects the audience's experience.",
+  "date": "2026-10-27T09:27:00.000+00:00",
+  "results_discussion": "The McGurk Effect surprised me because I had never realised how much our eyes could influence our hearing.Another interesting example was how sound effects are used in films. In *Tom and Jerry*, ordinary movements can become funny through carefully synchronised sounds.This made me realise that sound is not simply added to an image. It can change how we understand an action or experience a scene.I also found the idea of point of audition interesting. The same scene could feel completely different depending on whose perspective we hear it from.",
+  "week": 5,
+  "title": "week5",
   "images": [],
-  "video": "",
-  "references": ""
+  "introduction": "This week, we explored the relationship between sound and images, and how they influence our perception. I was particularly interested in how the same visual content can create different experiences depending on the sound.",
+  "video": ""
 }

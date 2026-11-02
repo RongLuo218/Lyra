@@ -1,13 +1,13 @@
 {
-  "week": 6,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
+  "related_work": "We explored Fantasmagorie (1908) by Émile Cohl, which uses simple drawings that continuously transform into different shapes. Another interesting example was Duck Amuck (1953) by Chuck Jones, where the character interacts with the animation process itself.",
+  "references": "",
+  "conclusion_future_work": "This week helped me think about animation as more than a visual technique. It is also a way to explore movement, transformation and perception. In future projects, I would like to experiment with using animation to give everyday objects unexpected behaviours.",
+  "date": "2026-11-02T21:10:00.000+00:00",
+  "results_discussion": "Before this lecture, I mainly understood animation as a series of images creating the illusion of movement. However, the examples in class encouraged me to think more about how animation uses transformation as a form of expression.I was particularly interested in *Fantasmagorie*. Rather than following a fixed storyline, the drawings continuously transform into different objects and shapes. I found it interesting how these simple transformations could keep the audience engaged without realistic movements or detailed visuals.Another interesting point was how animation can make objects seem alive. Even though we know the characters are just drawings, we can still recognise their emotions and personalities.This also reminded me of Week 2, when we explored how continuous movement could be broken down into individual frames. Animation seems to work in the opposite direction, creating movement from separate images.",
+  "week": 6,
+  "title": "week 6",
   "images": [],
-  "video": "",
-  "references": ""
+  "introduction": "This week, we explored the history of animation and its relationship with cinema, technology and human perception. I was particularly interested in how animation can make still images appear to move and bring objects to life.",
+  "video": ""
 }

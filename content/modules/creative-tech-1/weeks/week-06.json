@@ -1,13 +1,19 @@
 {
+  "method": "**Moodboard**\n\nOn Tuesday, I presented our project's moodboard in class. I introduced the inspiration behind the stone-stacking activity, explained the purpose of our project, and shared visual references. We also discussed the problem with our teacher and classmates.\n\n**Visual Design and p5.js**\n\nI created two different backgrounds and seven stone images, using soft colours and hand-drawn textures. I then used p5.js to develop the basic movement of the stones, gradually adjusting their positions and testing the interaction.\n\n**Adding Physics with Matter.js**\n\nTo make the stones behave more naturally, I installed Matter.js using npm install matter-js in the VS code. I worked on adding gravity and collisions so that the stones could fall and interact with one another.\n\n**Multiplayer Testing**\n\nSince our project requires two players, I also explored how to connect different devices. I used Node.js and Socket.IO to support communication between the players and the server.I also used Cloudflare Tunnel to create a public link to my locally running game. This allowed me to share the website with my group member so that we could open it on separate devices and test the interaction together.\n\n**Link: <https://richard-viewed-human-gene.trycloudflare.com/hand-game.html>**",
+  "related_work": "I read four materials shared by our teacher on Blackboard: Choreographic Encounters in XR, Game Poems, Crowdsourcing Creativity, and Form+Code in Design, Art, and Architecture.These readings helped me think about the relationship between digital interaction, visual forms, and collaboration. I was particularly interested in how a simple interaction could communicate emotions and encourage people to participate together.",
+  "references": "",
+  "conclusion_future_work": "This project is different from my previous work because it is a group project. Previously, I could make most decisions independently. Now, I need to divide tasks, share progress, and communicate with my group member.I realised that collaboration is important not only for the people playing our game, but also for us as the creators. Just as the players need to cooperate to stack stones, we need to work together to develop the project.",
+  "date": "2026-11-02T21:01:00.000+00:00",
+  "results_discussion": "During the moodboard presentation, our teacher and classmates gave us suggestions about how to develop the project. One important suggestion was to write pseudocode （It‘s my first time to hear） before implementing more complex interactions. This helped me realise that I needed to organise the logic of the project, rather than immediately starting to write code.Besides, although I successfully made the stones move, adding more realistic behaviour was challenging. For example, I needed to consider what should happen when a stone fell off the platform. At one point, fallen stones remained in the scene instead of allowing the players to continue stacking. I had to adjust the logic so that the game could respond properly to this situation.Another challenge was connecting two players. I needed to make sure that the actions from different devices could influence the same game. This was more complicated than my previous coding exercises, because the interaction depended on communication between the players and the server.",
   "week": 6,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "creative tech - week 6",
+  "images": [
+    "assets/images/df8eb687613f17d91a3d9d5827c5f2cf.jpg",
+    "assets/images/883153c3718222a245dc1b901bddc490.jpg",
+    "assets/images/7f3bab77645b07968b05b481ad995ad4.jpg",
+    "assets/images/86a4bd51f4b432ea80cba3b1599cc319.png",
+    "assets/images/9caa4603c22025822d4094cde1fad87e.png"
+  ],
+  "introduction": "This week, I continued developing Project 1, moving from the initial concept to a working interactive prototype. Through research, visual design, coding, and testing, I explored how to create a shared experience where two people need to cooperate to stack stones.",
+  "video": ""
 }

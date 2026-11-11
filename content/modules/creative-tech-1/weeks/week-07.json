@@ -1,13 +1,16 @@
 {
+  "method": "On Tuesday, we were introduced to Project 2 and its main topics, including virtual reality (VR) and projection mapping. Before the class, I read the recommended materials to understand these technologies and their possible applications.\n\nOn Thursday, we presented our completed Project 1 and watched other groups present their work. This allowed us to see different approaches to interactive projects and discuss their ideas.\n\nOn Friday, I attended a Blender workshop where I learned some basic functions of the software and began exploring how to work with 3D objects.",
+  "related_work": "I read Game Poems and Choreographic Encounters in XR: Reflections on Dancing with the Digital.\n\n*Game Poems* made me think about games as a way to express ideas and encourage reflection, rather than focusing on competition or winning. This reminded me of our Project 1, where the main purpose was cooperation and connection.The second reading explored how dancers experienced their bodies in virtual environments. It showed that realistic digital representations do not always create a better experience, and that abstract representations can sometimes encourage greater creative freedom.",
+  "references": "",
+  "conclusion_future_work": "This week made me think more critically about how technology influences our behaviour and perception. I realised that digital technology does not simply reproduce reality; it can also change how we understand ourselves and communicate with others. As I begin Project 2, I hope to explore how VR and projection mapping can create experiences beyond ordinary visual representation.",
+  "date": "2026-11-09T23:18:00.000+00:00",
+  "results_discussion": "One of the most memorable presentations on Thursday was by Sam and Jiaming's group. Their project raised an interesting question about AI and communication. Nowadays, almost everyone uses AI in some way, but what if AI changes the content of a message before it reaches the intended recipient? How can we know whether the message we receive is really what the other person wanted to say?\n\nI realised that without comparing the original conversation between both people, I might not even notice that the message had been changed. This made me think about how much we trust digital communication and how AI could affect relationships between people.\n\nAnother interesting experience came from reading *Choreographic Encounters in XR*. The authors described how dancers initially used 360-degree video and 3D motion capture to observe their own bodies from an external perspective. However, seeing realistic representations of themselves made them more conscious of their appearance and movements. Instead of focusing on the experience of dancing, they started judging how they looked.\n\nLater, when their bodies were represented as abstract particles responding to their movements, they felt more creative freedom. They could focus on the relationship between their movements and the digital effects rather than worrying about their appearance.\n\nThis reminded me of an example our teacher discussed in class about online meetings. When people can see themselves on screen, they may become distracted by their own appearance and unconsciously adjust their hair or posture. This made me realise that seeing ourselves does not always help us concentrate. Sometimes, removing the realistic image of ourselves can allow us to focus more on the actual experience.",
   "week": 7,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "creative tech - week 7",
+  "images": [
+    "assets/images/11e03516de2fd6523c7dbc4ae4e46bbd.png",
+    "assets/images/d4d3a0d4a3dc287585c817f863e04cca.png"
+  ],
+  "introduction": "This week, we presented Project 1, explored the introduction of Project 2, and attended a Blender workshop. Through these activities and the course readings, I began thinking more about how digital technologies influence communication, creativity, and the way people experience themselves in digital environments.",
+  "video": ""
 }

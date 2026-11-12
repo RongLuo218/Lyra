@@ -1,13 +1,16 @@
 {
-  "week": 5,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "method": "I used my current project idea to identify possible accessibility barriers. I then evaluated my Practice Grid by writing what I did well, what I needed to improve, and how to improve. Finally, I discussed my reflections with Sam.",
+  "related_work": "In class, we discussed three aspects of accessibility: language and understanding, physical access, and intersectionality. These ideas helped me consider how different audiences might experience my work. I also reflected on my Practice Grid, particularly my values and principles, and how they could influence my design decisions.",
+  "references": "",
+  "conclusion_future_work": "This week helped me identify both my strengths and the areas I need to improve. I want to explore more references and experiment with different technologies before deciding on my final direction. More importantly, I need to understand why I want to create something, rather than only focusing on how to make it.",
+  "date": "2026-11-12T08:26:00.000+00:00",
+  "results_discussion": "Through the accessibility exercise, I realised that my current sound-based project might not be fully accessible to people who are deaf or hard of hearing. Some ASMR sounds may also make certain audiences uncomfortable. These are challenges I need to consider as the project develops.In my self-assessment, I recognised that I have a clearer interest in digital and interactive experiences, but my creative direction is still quite broad. During the peer discussion, Sam suggested that if my work involves programming, I should identify the programming language I need and start learning it in advance.I also began questioning whether my current idea is meaningful enough. Although I have some ideas about the media I want to use, I am still unsure what I really want to explore.",
+  "week": 6,
+  "title": "creative industry research - week 6",
+  "images": [
+    "assets/images/19e9ae821bcf3f133b6c02cc9e442552.png",
+    "assets/images/pratice-grid-4.jpg"
+  ],
+  "introduction": "This week, we explored accessibility and reflected on our creative practices. Through the accessibility exercise, Practice Grid self-assessment, and peer discussion, I began to identify the challenges in my current work. I also realised that I am still uncertain about my creative direction and what I really want to explore.",
+  "video": ""
 }

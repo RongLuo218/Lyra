@@ -1,13 +1,15 @@
 {
+  "method": "On Tuesday, our teacher introduced TouchDesigner, and each of us received a projector for Project 2. During Wednesday's and Friday's workshops, I continued exploring the software and experimenting with projection. I learned how different types of nodes, such as TOPs and CHOPs, work together to process visual information and create effects. I also explored how to display digital visuals through a projector. On Thursday, I attended a guest lecture by Sophia Ppali and Ornagh, who shared their experiences of using VR, XR, and other digital technologies in their creative practices. After the lecture, I asked Ornagh how artists could communicate their ideas if audiences did not understand the intended meaning of their work. She shared an example of using sound and visual effects to express ideas and emotions.",
+  "related_work": "On Thursday, we attended a guest lecture by Sophia Ppali and Ornagh, who shared their experiences of working with digital technologies.Sophia introduced her research involving VR, including projects with musicians and people living with dementia. Her work explored how technology could be developed through collaboration with participants and their personal experiences.Ornagh shared her artistic practice, combining VR with physical installations, sculpture, and performance. She also discussed how she adapted her VR artworks into different formats, allowing people to experience her work without necessarily using a VR headset.Their practices made me think about how technology can support artistic expression rather than simply being used to create impressive visual effects.",
+  "references": "",
+  "conclusion_future_work": "This week, I not only learned more about TouchDesigner and projection mapping but also started thinking more deeply about communication through art.My conversation with Ornagh made me realise that creating an artwork is not just about having an idea, but also about considering how the audience might experience and interpret it.As I continue developing Project 2, I want to explore how visuals and interaction can work together to communicate my ideas, while also leaving space for different interpretations.",
+  "date": "2026-11-16T20:07:00.000+00:00",
+  "results_discussion": "This week, TouchDesigner introduced me to a different way of creating interactive visuals. At first, I found the node-based system a little difficult to understand because I was unfamiliar with the functions of different nodes and how they worked together. However, as I explored the software, I gradually understood that each node has a specific function, and connecting them creates a process for transforming and processing visual information. Experimenting with projection also made me think about how physical spaces could become part of an artwork, rather than simply displaying content on a screen.After the guest lecture, I took the initiative to ask Ornagh a question that had been on my mind: What if I want to communicate a particular idea through my artwork, but the audience does not understand what I am trying to express? She shared an example from her own artistic practice, explaining how sound and visual effects could help communicate ideas and emotions. This conversation made me think more about the relationship between an artist's intention and the audience's interpretation. Even if I have a clear idea of what I want to express, the audience may understand it differently. This also made me wonder whether audiences need to understand exactly what the artist intended, or whether different interpretations can also be valuable. I think this is something worth considering as I develop Project 2.",
   "week": 8,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "creative tech - week 8",
+  "images": [
+    "assets/images/79fb5d50af31e5f6e5b5ff7e038c7f3c.jpg"
+  ],
+  "introduction": "This week, we continued exploring technologies related to Project 2, including TouchDesigner and projection mapping. We also attended a guest lecture about artistic practices involving VR and XR. Through these activities, I not only learned new technical skills but also began thinking more deeply about how technology can help artists communicate their ideas and create meaningful experiences for audiences.",
+  "video": ""
 }

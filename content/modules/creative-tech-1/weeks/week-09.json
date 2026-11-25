@@ -1,13 +1,18 @@
 {
   "week": 9,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
+  "title": "creative tech - week 9",
+  "date": "2026-11-25T00:27:00.000+00:00",
+  "introduction": "This week, we were informed that Project 2 and Project 3 would be combined into one project due to time constraints. Based on the requirements of both projects, I started developing my concept and created a moodboard. We also continued exploring TouchDesigner, projection mapping, and Arduino through practical workshops.",
+  "related_work": "For my project, I initially considered exploring global warming through an interactive installation. However, I felt that this topic had already been widely discussed, so I started looking for a different direction.I eventually decided to focus on conformity and how people are influenced by the behaviour of others. I collected visual references for my moodboard, exploring how interaction, sound, and projection could be used to communicate this idea.",
+  "method": "On Tuesday and Thursday, we continued working with TouchDesigner and exploring its possibilities for projection mapping. During Thursday's class, our teacher asked us to bring our own physical objects and experiment with projecting visuals onto them. I tried different effects and observed how the projected images interacted with the surfaces and shapes of the objects. On Wednesday and Friday, we attended Arduino workshops led by Alice, where we followed her instructions to connect electronic components and build basic circuits. Since I had learned some Arduino during my undergraduate studies, the process was relatively familiar to me.",
+  "results_discussion": "An important discovery came from Thursday's projection experiment. While I was testing different visual effects, I realised that the choice of physical object was just as important as the projection itself. The shape, material, and meaning of an object can influence how the projected visuals are experienced and interpreted. This made me realise that I should not choose an object simply because it is easy to project onto. Instead, the object should have a connection to the idea I want to communicate.",
+  "conclusion_future_work": "This week helped me develop a clearer direction for my combined project. I also began to understand that creating a projection-based installation involves more than designing visual effects. The choice of physical objects and interaction methods should support the concept.Next, I want to develop my idea of conformity further and explore how projection, sound, and audience interaction could work together to express it.",
+  "images": [
+    "assets/images/8f9b176df2176b506ae6c749f9a7afd3.png",
+    "assets/images/8d09ccd496a85aa7fae07323144b4066.jpg",
+    "assets/images/bcd6d57aa828a48a12e2a23ec8c58665.jpg",
+    "assets/images/ad2107c9913dcc6c865337a34ae890db.jpg"
+  ],
   "video": "",
   "references": ""
 }
